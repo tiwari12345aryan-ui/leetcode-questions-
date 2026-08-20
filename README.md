@@ -10,6 +10,7 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 | [0169-majority-element](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0209-minimum-size-subarray-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -58,4 +59,8 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0088-merge-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
