@@ -67,4 +67,8 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
