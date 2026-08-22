@@ -8,6 +8,7 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 | ------- |
 | [0049-group-anagrams](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0209-minimum-size-subarray-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -74,4 +75,8 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
