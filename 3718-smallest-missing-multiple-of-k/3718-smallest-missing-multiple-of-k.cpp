@@ -7,7 +7,7 @@ public:
         {
             arr.insert(num);
         }
-        for(int i=1;i<INT_MAX;i++)
+        for(int i=1;i<102;i++)
         {
             if(arr.find(k*i)==arr.end())
             {
