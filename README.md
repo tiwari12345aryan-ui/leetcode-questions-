@@ -14,6 +14,7 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 | [0209-minimum-size-subarray-sum](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0209-minimum-size-subarray-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 | [0169-majority-element](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
