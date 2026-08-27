@@ -6,6 +6,7 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -29,6 +30,7 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0169-majority-element) |
@@ -69,6 +71,7 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0088-merge-sorted-array) |
 ## Simulation
 |  |
