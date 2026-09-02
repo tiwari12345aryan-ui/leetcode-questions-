@@ -78,6 +78,7 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 | ------- |
 | [0015-3sum](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0088-merge-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -124,6 +125,7 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
