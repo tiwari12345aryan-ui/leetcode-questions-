@@ -27,6 +27,7 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 | [0003-longest-substring-without-repeating-characters](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -82,6 +83,7 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 | [0015-3sum](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
@@ -129,6 +131,7 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -139,4 +142,5 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
