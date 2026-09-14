@@ -93,6 +93,7 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0836-rectangle-overlap) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3871-count-commas-in-range-ii) |
@@ -147,4 +148,8 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0142-linked-list-cycle-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
