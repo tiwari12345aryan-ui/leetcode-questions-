@@ -13,6 +13,7 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 | [0136-single-number](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0209-minimum-size-subarray-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2596-check-knight-tour-configuration](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/2596-check-knight-tour-configuration) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -30,6 +31,7 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 | [0142-linked-list-cycle-ii](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0242-valid-anagram) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3731-find-missing-elements) |
@@ -47,15 +49,18 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0209-minimum-size-subarray-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0209-minimum-size-subarray-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0209-minimum-size-subarray-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
