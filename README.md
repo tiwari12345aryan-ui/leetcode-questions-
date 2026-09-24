@@ -18,6 +18,7 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 | [2596-check-knight-tour-configuration](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/2596-check-knight-tour-configuration) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -99,6 +100,7 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0836-rectangle-overlap) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3871-count-commas-in-range-ii) |
