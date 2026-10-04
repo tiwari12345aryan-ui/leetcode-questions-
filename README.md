@@ -71,6 +71,7 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 | [0049-group-anagrams](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0242-valid-anagram) |
+| [0678-valid-parenthesis-string](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,17 +114,21 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0678-valid-parenthesis-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Depth-First Search
 |  |
