@@ -22,6 +22,7 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 | [3718-smallest-missing-multiple-of-k](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@ Solutions to LeetCode problems in C++ with clean code and approaches
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/0209-minimum-size-subarray-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3903-smallest-stable-index-i](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tiwari12345aryan-ui/leetcode-questions-/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
